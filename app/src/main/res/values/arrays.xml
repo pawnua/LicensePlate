@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="submenu_array">
+        <item>Все</item>
+        <item>Регион</item>
+        <item>2004 г.</item>
+        <item>1995 г.</item>
+    </string-array>
+</resources>
